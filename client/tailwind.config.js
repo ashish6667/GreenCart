@@ -7,8 +7,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: '#22c55e', // a Tailwind green
-        'primary-dull': '#16a34a', // hover version
+        primary: '#15803d',        // Tailwind green-700 (dark green)
+        'primary-dull': '#166534', // Tailwind green-800 (darker hover)
       },
     },
   },
